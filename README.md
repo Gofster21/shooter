@@ -1,0 +1,2 @@
+# shooter
+classnay igra
